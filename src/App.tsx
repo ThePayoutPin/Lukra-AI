@@ -369,7 +369,7 @@ function App() {
                 href="https://calendly.com/hello-lukraai/introduction-call"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block text-center bg-emerald-500 hover:bg-emerald-600 text-slate-900 px-6 py-3 rounded-lg font-semibold transition mt-auto"
+                className="block text-center bg-emerald-500 hover:bg-emerald-600 text-slate-900 px-6 py-3 rounded-lg font-semibold transition mt-auto whitespace-nowrap"
               >
                 Book a Revenue Discovery Call
               </a>
