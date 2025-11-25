@@ -136,14 +136,14 @@ function App() {
                   href="https://calendly.com/hello-lukraai/introduction-call"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-emerald-500 hover:bg-emerald-600 text-slate-900 px-8 py-4 rounded-lg font-semibold transition inline-flex items-center justify-center gap-2"
+                  className="bg-emerald-500 hover:bg-emerald-600 text-slate-900 px-8 py-4 rounded-lg font-semibold transition inline-flex items-center justify-center gap-2 whitespace-nowrap"
                 >
                   Book a 15-minute strategy call
                   <ArrowRight size={20} />
                 </a>
                 <button
                   onClick={() => scrollToSection('how-it-works')}
-                  className="border-2 border-emerald-500 text-emerald-400 hover:bg-emerald-500/10 px-8 py-4 rounded-lg font-semibold transition"
+                  className="border-2 border-emerald-500 text-emerald-400 hover:bg-emerald-500/10 px-8 py-4 rounded-lg font-semibold transition whitespace-nowrap"
                 >
                   See how it works
                 </button>
