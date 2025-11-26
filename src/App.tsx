@@ -270,7 +270,7 @@ function App() {
                 <div>
                   <h3 className="text-2xl font-bold mb-3">Craft Offers That Convert</h3>
                   <p className="text-gray-300">
-                    We collaborate with you to create simple, compelling offers: "We miss you" campaigns, tune-ups, seasonal promos, maintenance plans, re-quote outreach, and more.
+                    We collaborate with you to create simple, compelling offers: "We miss you" campaigns, reactivation campaigns, full lead nurture sequences, missed call follow-up, re-quote outreach, and more.
                   </p>
                 </div>
               </div>
@@ -296,9 +296,9 @@ function App() {
                   4
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold mb-3">Track Revenue & Only Pay on Results</h3>
+                  <h3 className="text-2xl font-bold mb-3">Revenue Tracking</h3>
                   <p className="text-gray-300">
-                    We show you how many leads, bookings, and dollars came from Lukra campaigns — and you only pay when we produce results.
+                    We show you how many leads, bookings, and dollars came from Lukra campaigns — so you always know exactly what you're paying for.
                   </p>
                 </div>
               </div>
@@ -321,7 +321,7 @@ function App() {
               Pricing
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-6">
-              Simple, transparent, and performance-driven.
+              Simple. Transparent.
             </p>
             <p className="text-base text-gray-300 max-w-4xl mx-auto">
               At Lukra, you don't pay for ideas — you pay for outcomes. Every plan includes a complete list audit, segmentation, AI-powered campaign buildout, and performance tracking. All plans begin with a one-time Activation Fee to ensure quality, deliverability, and a clean foundation for revenue-generating campaigns.
