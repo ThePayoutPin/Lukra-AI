@@ -198,7 +198,7 @@ function App() {
               </div>
               <h3 className="text-xl font-bold mb-3">Home Services</h3>
               <p className="text-gray-300">
-                HVAC, roofing, insulation, spray foam, plumbing, electrical, landscaping, pest control, and more.
+                HVAC, roofing, insulation, gutter cleaning, solar, plumbing, electrical, landscaping, pest control, and more.
               </p>
             </div>
 
@@ -208,7 +208,7 @@ function App() {
               </div>
               <h3 className="text-xl font-bold mb-3">Local Service Businesses</h3>
               <p className="text-gray-300">
-                Garage doors, window cleaning, flooring, painting, pool service, and other high-trust local services.
+                Pressure washing, window cleaning, flooring, painting, pool service, and other high-trust local services.
               </p>
             </div>
 
@@ -218,7 +218,7 @@ function App() {
               </div>
               <h3 className="text-xl font-bold mb-3">Med Spas & Wellness</h3>
               <p className="text-gray-300">
-                Med spas, salons, gyms, and clinics that rely on repeat visits and special promotions.
+                Med spas, salons, dentists, chiropractors, clinics, appointment-based businesses that rely on repeat visits and special promotions.
               </p>
             </div>
 
