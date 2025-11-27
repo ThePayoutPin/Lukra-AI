@@ -321,49 +321,49 @@ function App() {
               Pricing
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-6">
-              Simple. Transparent.
+              Simple, transparent, and built for predictable growth.
             </p>
             <p className="text-base text-gray-300 max-w-4xl mx-auto">
-              At Lukra, everything is built around consistent, measurable outcomes.
-Every plan includes a full list audit, smart segmentation, and AI-powered campaigns designed to deliver dependable month-to-month growth. Each subscription begins with a one-time Activation Fee to ensure perfect setup, deliverability, and a clean foundation for ongoing results.            </p>
+              At Lukra, everything is built around consistent, measurable outcomes. Every plan includes a full list audit, smart segmentation, and AI-powered campaigns that deliver dependable month-to-month growth. Each subscription begins with a one-time Activation Fee to ensure perfect setup, deliverability, and a clean foundation for ongoing results.
+            </p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 mb-12">
             <div className="bg-slate-800 rounded-xl p-8 border border-slate-700 hover:border-slate-600 transition shadow-lg flex flex-col">
               <div className="text-sm text-emerald-400 font-semibold mb-2">Entry-Level Option</div>
-              <h3 className="text-2xl font-bold mb-2">Performance Activation Plan</h3>
-              <p className="text-gray-300 mb-2">Low activation fee + performance-only billing</p>
+              <h3 className="text-2xl font-bold mb-2">Starter Plan</h3>
+              <p className="text-gray-300 mb-2">Foundational AI campaigns for predictable monthly revenue</p>
               <p className="text-sm italic text-gray-400 mb-6">Best for first-time clients or smaller lists</p>
               <ul className="space-y-3 mb-6 flex-grow">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">One-time activation fee</span>
+                  <span className="text-gray-300">Full list audit & segmentation</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Pay only on revenue we generate</span>
+                  <span className="text-gray-300">AI-powered email campaigns</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Includes list audit, segmentation, and foundational AI campaign setup</span>
+                  <span className="text-gray-300">Monthly campaign deployment</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">No long-term commitment</span>
+                  <span className="text-gray-300">Basic optimizations & reporting</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Fastest onboarding</span>
+                  <span className="text-gray-300">No long-term contract</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Great way to validate the system at low risk</span>
+                  <span className="text-gray-300">Simple, low-risk way to get started</span>
                 </li>
               </ul>
               <div className="mb-4 pt-4 border-t border-slate-700">
-                <p className="text-lg font-bold text-gray-100 mb-1">Activation Fee Starting at $297</p>
-                <p className="text-base font-semibold text-emerald-400 mb-3">Performance Fee: 15–20% of revenue generated</p>
-                <p className="text-sm italic text-gray-400">Ideal for owners who want to test the model before scaling — but includes fewer optimizations and no SMS or deep personalization.</p>
+                <p className="text-lg font-bold text-gray-100 mb-1">Activation Fee: Starting at $297</p>
+                <p className="text-base font-semibold text-emerald-400 mb-3">Monthly Subscription: $497 / month</p>
+                <p className="text-sm italic text-gray-400">Ideal for owners who want predictable results without complexity—limited to email-only campaigns and core optimizations.</p>
               </div>
               <a
                 href="https://calendly.com/hello-lukraai/introduction-call"
@@ -371,7 +371,7 @@ Every plan includes a full list audit, smart segmentation, and AI-powered campai
                 rel="noopener noreferrer"
                 className="block text-center bg-emerald-500 hover:bg-emerald-600 text-slate-900 px-6 py-3 rounded-lg font-semibold transition mt-auto whitespace-nowrap"
               >
-                Book a Revenue Discovery Call
+                Get Started
               </a>
             </div>
 
@@ -380,29 +380,25 @@ Every plan includes a full list audit, smart segmentation, and AI-powered campai
                 Most Popular
               </div>
               <div className="text-sm text-emerald-400 font-semibold mb-2">Most Popular</div>
-              <h3 className="text-2xl font-bold mb-2">Hybrid Plan</h3>
-              <p className="text-gray-300 mb-2">Reduced performance fee + full AI setup</p>
-              <p className="text-sm italic text-gray-400 mb-6">Ideal for established lists ready for predictable revenue</p>
+              <h3 className="text-2xl font-bold mb-2">Growth Plan</h3>
+              <p className="text-gray-300 mb-2">Advanced AI campaigns + multi-channel optimization</p>
+              <p className="text-sm italic text-gray-400 mb-6">Perfect for businesses ready for consistent, predictable revenue every month</p>
               <ul className="space-y-3 mb-6 flex-grow">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Everything in the Performance Plan <strong>PLUS:</strong></span>
+                  <span className="text-gray-300">Everything in the Starter Plan <strong>PLUS:</strong></span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Advanced AI-personalized email <strong>and</strong> SMS campaigns</span>
+                  <span className="text-gray-300">AI-personalized email and SMS campaigns</span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Fully customized messaging per segment</span>
+                  <span className="text-gray-300">Deeper segmentation & dynamic messaging</span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Ongoing optimization during the campaign</span>
-                </li>
-                <li className="flex items-start gap-2 ml-6">
-                  <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Lower performance percentage (save more as revenue scales)</span>
+                  <span className="text-gray-300">Weekly optimization & improvement</span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
@@ -410,13 +406,17 @@ Every plan includes a full list audit, smart segmentation, and AI-powered campai
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Highest ROI for lists over 2,000 contacts</span>
+                  <span className="text-gray-300">Higher monthly send limits</span>
+                </li>
+                <li className="flex items-start gap-2 ml-6">
+                  <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
+                  <span className="text-gray-300">Designed for lists over 2,000 contacts</span>
                 </li>
               </ul>
               <div className="mb-4 pt-4 border-t border-emerald-500/30">
-                <p className="text-lg font-bold text-gray-100 mb-1">Setup Fee Starting at $997</p>
-                <p className="text-base font-semibold text-emerald-400 mb-3">Performance Fee: 10% of revenue generated</p>
-                <p className="text-sm italic text-gray-400">Our most balanced and most selected plan — chosen by the majority of growing businesses for its strong ROI and deeper campaign optimization.</p>
+                <p className="text-lg font-bold text-gray-100 mb-1">Activation Fee: Starting at $497</p>
+                <p className="text-base font-semibold text-emerald-400 mb-3">Monthly Subscription: $997 / month</p>
+                <p className="text-sm italic text-gray-400">Our most selected plan—the perfect balance of cost, depth, and results. Built for businesses wanting predictable revenue without performance fees.</p>
               </div>
               <a
                 href="https://calendly.com/hello-lukraai/introduction-call"
@@ -424,19 +424,19 @@ Every plan includes a full list audit, smart segmentation, and AI-powered campai
                 rel="noopener noreferrer"
                 className="block text-center bg-emerald-500 hover:bg-emerald-600 text-slate-900 px-6 py-3 rounded-lg font-semibold transition mt-auto"
               >
-                See Which Plan Fits You
+                Most Popular — Start Here
               </a>
             </div>
 
             <div className="bg-slate-800 rounded-xl p-8 border border-slate-700 hover:border-slate-600 transition shadow-lg flex flex-col">
               <div className="text-sm text-emerald-400 font-semibold mb-2">For Scaling Teams</div>
-              <h3 className="text-2xl font-bold mb-2">Growth Retainer</h3>
-              <p className="text-gray-300 mb-2">Monthly partner plan for ongoing revenue generation</p>
-              <p className="text-sm italic text-gray-400 mb-6">Perfect for monthly list activation & nurturing</p>
+              <h3 className="text-2xl font-bold mb-2">Scale Plan</h3>
+              <p className="text-gray-300 mb-2">Full-service monthly growth engine with always-on optimization</p>
+              <p className="text-sm italic text-gray-400 mb-6">Best for teams wanting a long-term, fully managed revenue partner</p>
               <ul className="space-y-3 mb-6 flex-grow">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Everything in the Hybrid Plan <strong>PLUS:</strong></span>
+                  <span className="text-gray-300">Everything in the Growth Plan <strong>PLUS:</strong></span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
@@ -448,24 +448,29 @@ Every plan includes a full list audit, smart segmentation, and AI-powered campai
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Continuous list cleaning and segmentation</span>
+                  <span className="text-gray-300">Continuous list cleaning & segmentation</span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">AI optimization & A/B testing</span>
+                  <span className="text-gray-300">Advanced AI testing & A/B optimization</span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
-                  <span className="text-gray-300">Dedicated support channel</span>
+                  <span className="text-gray-300">Dedicated channel support</span>
                 </li>
                 <li className="flex items-start gap-2 ml-6">
                   <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
                   <span className="text-gray-300">Priority calendar access</span>
                 </li>
+                <li className="flex items-start gap-2 ml-6">
+                  <CheckCircle2 className="text-emerald-400 flex-shrink-0 mt-1" size={20} />
+                  <span className="text-gray-300">Highest send volumes & fastest optimization cycles</span>
+                </li>
               </ul>
               <div className="mb-4 pt-4 border-t border-slate-700">
-                <p className="text-lg font-bold text-gray-100 mb-3">Starting at $1,500 / month + optional performance bonuses</p>
-                <p className="text-sm italic text-gray-400">Designed for teams that want a long-term partner optimizing revenue every single month — a fully managed, always-on revenue engine.</p>
+                <p className="text-lg font-bold text-gray-100 mb-1">Activation Fee: Starting at $997</p>
+                <p className="text-base font-semibold text-emerald-400 mb-3">Monthly Subscription: $1,500+ / month</p>
+                <p className="text-sm italic text-gray-400">Designed for businesses that want a fully managed, always-on revenue engine—a complete AI-powered list activation system.</p>
               </div>
               <a
                 href="https://calendly.com/hello-lukraai/introduction-call"
@@ -480,7 +485,7 @@ Every plan includes a full list audit, smart segmentation, and AI-powered campai
 
           <div className="text-center">
             <p className="text-gray-300 mb-6">
-              Not sure which plan is right for you? We'll help you choose the perfect model in less than 15 minutes.
+              Not sure which plan is right for you? We'll help you choose the perfect model in under 15 minutes.
             </p>
             <a
               href="https://calendly.com/hello-lukraai/introduction-call"
