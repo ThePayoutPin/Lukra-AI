@@ -256,7 +256,7 @@ function App() {
                 <div>
                   <h3 className="text-2xl font-bold mb-3">Audit & Clean Your List</h3>
                   <p className="text-gray-300">
-                    We import your contacts from your CRM or spreadsheet, remove duplicates and obvious junk, and segment by past customers, leads, and cold inquiries.
+                    We import your contacts from your CRM or spreadsheet, remove duplicates and obvious junk, and segment by past customers, leads, ready now, interested but not now, and cold inquiries.
                   </p>
                 </div>
               </div>
@@ -270,7 +270,7 @@ function App() {
                 <div>
                   <h3 className="text-2xl font-bold mb-3">Craft Offers That Convert</h3>
                   <p className="text-gray-300">
-                    We collaborate with you to create simple, compelling offers: "We miss you" campaigns, reactivation campaigns, full lead nurture sequences, missed call follow-up, re-quote outreach, and more.
+                    We collaborate with you to create simple, compelling offers: "We miss you" campaigns, reactivation campaigns, full lead nurture sequences, reputation management, missed call follow-up, re-quote outreach, and more.
                   </p>
                 </div>
               </div>
