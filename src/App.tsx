@@ -324,8 +324,8 @@ function App() {
               Simple. Transparent.
             </p>
             <p className="text-base text-gray-300 max-w-4xl mx-auto">
-              At Lukra, you don't pay for ideas — you pay for outcomes. Every plan includes a complete list audit, segmentation, AI-powered campaign buildout, and performance tracking. All plans begin with a one-time Activation Fee to ensure quality, deliverability, and a clean foundation for revenue-generating campaigns.
-            </p>
+              At Lukra, everything is built around consistent, measurable outcomes.
+Every plan includes a full list audit, smart segmentation, and AI-powered campaigns designed to deliver dependable month-to-month growth. Each subscription begins with a one-time Activation Fee to ensure perfect setup, deliverability, and a clean foundation for ongoing results.            </p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 mb-12">
